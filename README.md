@@ -25,7 +25,7 @@ This repository hosts the full audit report of Blend Protocol’s smart contract
 
 The full audit report is available in the following formats:
 
-- **[Audit Report PDF](https://github.com/Blend-Blend/Audit-Report)**
+- **[Damocles Audit Report](https://github.com/Blend-Blend/Audit-Report)**
 
 ---
 
@@ -38,6 +38,8 @@ At Blend, security is our top priority. The audit process ensures that:
 - **Best Practices** are followed in every line of code, providing transparency and trustworthiness.
 
 We will continue to monitor and update our systems to address emerging security challenges and improve the protocol's performance.
+
+---
 
 ### 📞 Contact
 
