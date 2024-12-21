@@ -43,8 +43,8 @@ We will continue to monitor and update our systems to address emerging security 
 
 If you have any questions or need more information regarding the audit report, feel free to contact us:
 
-- 💬 Telegram: [Link to Telegram group](https://t.me/blendprotocolofficial)
-- 🐦 Twitter: [@Protocol_Blend](https://x.com/Protocol_Blend)
+- 💬 Telegram: https://t.me/blendprotocolofficial
+- 🐦 Twitter: https://x.com/Protocol_Blend
 
 ---
 
